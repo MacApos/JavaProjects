@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    min-height: 100%;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    background: repeat url("image.png");
+}
+
+p {
+    font-size: 1.2rem;
+}
