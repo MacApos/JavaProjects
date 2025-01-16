@@ -39,6 +39,7 @@ public class Main {
         }
 
         System.out.print("Uploading initial file...");
+
 //        int wait = 0;
 //        while (wait != 3){
 //            try {
